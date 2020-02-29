@@ -1,0 +1,19 @@
+.site-layout {
+    min-height: 100vh
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.site-layout .site-layout-container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1170px;
+    padding: 24px;
+}
+
+.text-center {
+    text-align: center;
+}

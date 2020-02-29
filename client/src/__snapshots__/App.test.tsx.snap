@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App to match snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="ant-layout site-layout"
+  >
+    <header
+      class="ant-layout-header"
+    >
+      <img
+        alt="logo"
+        class="App-logo"
+        src="logo.svg"
+      />
+    </header>
+    <main
+      class="ant-layout-content site-layout-background"
+    >
+      <div
+        class="site-layout-container"
+      >
+        Bill is a cat.
+      </div>
+    </main>
+    <footer
+      class="ant-layout-footer text-center"
+    >
+      Pomelo Pay ©2020 Created by David Saputra
+    </footer>
+  </section>
+</DocumentFragment>
+`;
