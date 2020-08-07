@@ -18,7 +18,7 @@
     "@types/http-errors": "^1.6.3",
     "@types/omit-empty": "^1.0.0",
     "@types/uuid": "^7.0.0",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
